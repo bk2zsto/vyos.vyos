@@ -12,6 +12,7 @@ Minor Changes
 -------------
 
 - firewall_rules - icmpv6 type - add support for vyos sw >= 1.4.
+- vyos_facts - support 1.3 show version output
 
 v3.0.0
 ======
